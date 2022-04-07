@@ -1,7 +1,7 @@
 <h1 align="center">I'm SpaceFrostDev</h1>
 <h3 align="center">A deep learning practitioner passionate about applying state of the art computer vision research to practical problems.</h3>
 
-- I'm currently working on my [custom](https://github.com/SpaceFrostDev/custom_deep_learning) deep learning toolkit to expedite my future computer vision research
+- I'm currently working on my deep learning [toolkit](https://github.com/SpaceFrostDev/vysion) to expedite future computer vision research
 - I'm currently learning smart contract development in **Solidity** as part of a Financial Technology Certificate
 
 <h3 align="left">Languages</h3>
